@@ -1,2 +1,4 @@
 # odin-recipes
-# Este proyecto se trata de hacer un recetario basico con html
+
+ ## objetivos
+ Este proyecto se trata de hacer un recetario basico con html basico
