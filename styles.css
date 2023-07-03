@@ -1,0 +1,30 @@
+* {
+    background-color: rgb(67, 65, 65);
+    font-family: Arial, Helvetica, sans-serif;
+    font-style: italic;
+    color: white;
+}
+
+.tablainicio {
+
+    color: white;
+    border-collapse: collapse;
+    margin: auto;
+}
+
+.tablainicio th,
+.tablainicio td {
+
+    border: 5px solid white;
+    padding: 8px;
+}
+
+
+img {
+    width: 100%;
+    height: auto;
+
+}
+
+
+/* hay mucho por ir mejorando y cambiando de lo que se hizo  */
